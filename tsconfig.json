@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",     // Allows using require()
+      "target": "es6",          // Set target to ES6 or later
+      "esModuleInterop": true,  // Ensures compatibility with CommonJS and ES modules
+      "strict": true            // Enables strict type-checking options
+    }
+  }
+  
